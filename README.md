@@ -6,6 +6,10 @@ Este é um projeto simples desenvolvido para exemplificar e explicar o conceito 
 
 Uma apresentação detalhada sobre o tema pode ser encontrada [aqui](https://www.canva.com/design/DAGCnwcU000/LQ5ryFzFx1BEYgINprOiig/edit?utm_content=DAGCnwcU000&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Nesta apresentação, você encontrará explicações detalhadas e um exemplo prático desenvolvido passo a passo.
 
+## Navegue na aplicação
+
+Você pode navegar no site desenvolvido para essa aula [aqui](https://async-await-amanda-silva.netlify.app/). 
+
 ## Estrutura do Projeto
 
 O projeto consiste em um único arquivo JavaScript que demonstra como realizar uma chamada assíncrona para uma API e processar os dados obtidos. O código está comentado para facilitar a compreensão.
