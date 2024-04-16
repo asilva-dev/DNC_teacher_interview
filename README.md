@@ -4,7 +4,7 @@ Este é um projeto simples desenvolvido para exemplificar e explicar o conceito 
 
 ## Apresentação
 
-Uma apresentação detalhada sobre o tema pode ser encontrada [aqui](https://www.canva.com/design/DAGCnt7oehM/yOd5dgQz09ZzjAaTlFiq_A/edit?utm_content=DAGCnt7oehM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Nesta apresentação, você encontrará explicações detalhadas e um exemplo prático desenvolvido passo a passo.
+Uma apresentação detalhada sobre o tema pode ser encontrada [aqui](https://www.canva.com/design/DAGCnwcU000/LQ5ryFzFx1BEYgINprOiig/edit?utm_content=DAGCnwcU000&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Nesta apresentação, você encontrará explicações detalhadas e um exemplo prático desenvolvido passo a passo.
 
 ## Estrutura do Projeto
 
